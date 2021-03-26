@@ -1,4 +1,6 @@
-### Hi there 👋
+### Paul O'Connell
+### MERN Full Stack Developer
+#Experienced Manager with a demonstrated skill of building engaged teams, business management, client support, problem solving, and software development. Certified Full-Stack Software Developer focused on continual learning in software development best practices, and writing efficient, clean code. 
 
 <!--
 **pauloconnell/pauloconnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
