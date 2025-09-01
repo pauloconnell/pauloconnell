@@ -1,6 +1,6 @@
 # Paul O'Connell
 ## MERN Full Stack Developer
-### Note: All of my work (commits) at my current employer (3.5 years) 'www.knowitalls.com' are in a private repo on AZURE, NOT shown here on github.
+### Note: All of my work (commits) at my current employer (4 years) 'www.knowitalls.com' are in a private repo on AZURE, NOT shown here on github.
 Certified Full-Stack Software Developer with extensive experience in both enterprise and startup environments. Committed to continual learning and implementing best practices in software development, ensuring efficient and clean code. Proven Manager with a track record of building engaged teams, excelling in business management, client support, problem-solving, and software development.
 <!--
 **pauloconnell/pauloconnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
